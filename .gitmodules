@@ -1,0 +1,3 @@
+[submodule "Grocery_Frontend"]
+	path = Grocery_Frontend
+	url = https://github.com/SunkaraboinaPraveenKumar/Grocery_Frontend.git
